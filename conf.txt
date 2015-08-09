@@ -1,0 +1,12 @@
+host,ftp://ftp.uetiot.com/
+user,zeeshan1994
+password,AKZK1994,
+serverDir,temp
+downloadDir,tempDir
+db_host,localhost
+db_user,root
+db_password
+db_database,test
+db_options_eod_table,options_eod_table
+db_optionstats_eod_table,optionstats_eod_table
+db_stockquotes_eod_table,stockquotes_eod_table
